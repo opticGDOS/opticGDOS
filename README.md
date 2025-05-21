@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!&repeat=false)](https://git.io/typing-svg)
-<!--  -->Software student
+
+<!-- -->Software student
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gael+Dario+Ortiz+Salazar..&hearts;++;Passionate+Back-End+Developer;Computer+Science+Undergraduate;Cybersecurity+Enthusiast+%7C+CTF+Explorer;Lifelong+Learner+%7C+Tech+Explorer;Always+Curious+%7C+Building+One+Line+at+a+Time">
