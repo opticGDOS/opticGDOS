@@ -1,15 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<!-- -->Software student
-
+<!-- Welcome en rojo -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gael+Dario+Ortiz+Salazar..💻;++;Passionate+Back-End+Developer;Computer+Science+Undergraduate;Cybersecurity+Enthusiast+%7C+CTF+Explorer;Lifelong+Learner+%7C+Tech+Explorer;Always+Curious+%7C+Building+One+Line+at+a+Time">
-
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!&delay=3000&pause=3000">
 </p>
+
+<!-- GIF decorativo -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Nombre y frases en azul con pausa -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=Gael+Dario+Ortiz+Salazar..💻;Passionate+Back-End+Developer;Computer+Science+Undergraduate;Cybersecurity+Enthusiast+%7C+CTF+Explorer;Lifelong+Learner+%7C+Tech+Explorer;Always+Curious+%7C+Building+One+Line+at+a+Time&delay=3000&pause=3000">
+</p>
+
 
 
 <br>
