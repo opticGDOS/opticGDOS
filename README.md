@@ -16,7 +16,7 @@
 	
 ## <picture><img src = "https://cdn-icons-png.flaticon.com/512/8358/8358770.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFpcTlkMXJuZmExZDN5eTVyam5qOGJ6d2JkdHp3OXI1OHU5ejNzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/200.webp" width = 250px></picture>
 
 <br>
 
