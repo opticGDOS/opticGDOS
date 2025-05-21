@@ -12,13 +12,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=Gael+Dario+Ortiz+Salazar..💻;Passionate+Back-End+Developer;Computer+Science+Undergraduate;Cybersecurity+Enthusiast+%7C+CTF+Explorer;Lifelong+Learner+%7C+Tech+Explorer;Always+Curious+%7C+Building+One+Line+at+a+Time&delay=3000&pause=3000">
 </p>
-
-
-
-<br>
-
-
-
 	
 ## <picture><img src = "https://cdn-icons-png.flaticon.com/512/8358/8358770.png" width = 50px></picture> **About me**
 
