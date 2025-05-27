@@ -125,7 +125,7 @@
 <br>
 
 <li>
-<a href="mailto:gdos210108@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=gdos210108@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:%20gdos210108@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 </li>
